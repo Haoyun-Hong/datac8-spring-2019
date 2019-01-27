@@ -10,4 +10,4 @@ The course is offered in partnership with the Berkeley Division of Data Sciences
 ## Progress Status: 
 lecture 02 completed 
 lab 01 completed 
-hwk 01 completed
+hwk 01 completed (require further examination before submission)
