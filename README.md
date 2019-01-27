@@ -8,6 +8,7 @@ The course is offered in partnership with the Berkeley Division of Data Sciences
 
 ## Course material:
 Course website: http://data8.org/sp19/
+
 Textbook: Computation and Inferential Thinking https://www.inferentialthinking.com/chapters/intro.html
 
 
