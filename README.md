@@ -7,3 +7,7 @@ The UC Berkeley Foundations of Data Science course combines three perspectives: 
 
 The course is offered in partnership with the Berkeley Division of Data Sciences.
 
+## Progress Status: 
+lecture 02 completed 
+lab 01 completed 
+hwk 01 completed
