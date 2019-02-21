@@ -19,3 +19,5 @@ lab 04 completed
 
 hwk 04 completed 
 
+project 01 completed 
+
