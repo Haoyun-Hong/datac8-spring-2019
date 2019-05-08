@@ -13,11 +13,4 @@ Textbook: Computation and Inferential Thinking https://www.inferentialthinking.c
 
 
 ## Progress Status: 
-lecture 24 completed 
-
-lab 07 completed 
-
-hwk 07 completed 
-
-project 01 completed 
-
+all course material completed 
